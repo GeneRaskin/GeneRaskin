@@ -10,7 +10,7 @@ I'm a junior C/C++ developer with some knowledge of Java, Kotlin, and Python.
 
 ## Social
 
-<a href="https://www.linkedin.com/in/eugene-raskin-b37772245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/evgeny-raskin-b37772245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
 ## Programming Languages
 
